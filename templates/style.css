@@ -1,0 +1,19 @@
+body{
+  background-color: aqua;
+}
+.result-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.result-item .link {
+  flex: 1;
+  text-decoration: none;
+  color: #fff;
+}
+
+.result-item .score {
+  margin-left: 10px;
+  font-size: 16px;
+}
